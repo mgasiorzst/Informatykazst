@@ -3,3 +3,8 @@ topologie logiczne
 - przekazywanie żetonu(token passing)(dane przekazywane są kolejno do urządzeń połączonych w sieć. Urządzenie, które otrzyma porcję danych, analizuje czy są one kierowane do niego czy też nie. Jeśli dane nie są do niego adresowane, 
 przekazuje je dalej, do sąsiedniego urządzenia. W taki sposób, dane przesyłane są przez wszystkie urządzenia występujące pomiędzy urządzeniem źródłowym, a docelowym.)
 - wielodostępowa
+
+
+topologia wielodostepowa umozliwia komunikacje urzadzen w sieci przez jedno fizyczne medium transmisyjne.
+
+
