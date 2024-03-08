@@ -1,0 +1,10 @@
+1. protokół DNS - (domain name system) - jest używany do odwzorowania nazw w internecie na adresy IP
+2. protokół HTTP (hypertext transfer protocol) - używany do przesylania plików hipertekstowych czyli tworzących strony WWW
+3. HTTPS(hypertext transfer protocol secure) - szyfrowana wersja protokołu HTTP
+4. SMTP ( simple mail transfer protocol) - służy do wysłania wiadomosci poczty elektronicznej wraz z załączznikami
+5. POP3(post online protocol)- służy do odbioru poczty elektornicznej
+6. IMAP- (internet message access protocol) - ma funkcje POP3 ale także pozwala na zarządzanie zdalnymi folderami znajdującymi się na serwerze
+7. Telnet(telecommunication network)- protokół do obsługi terminala zdalnego urządzenia 
+8. FTP(file transfer protocol)-służy do przesyłania plików między klientem a serwerm FTP
+9. DHCP(dynamic host configuration protocol)- uzywany do dynamicznej konfiguracji urządzeń. odpowiada za przydzielenie adresów IP adresu domyślnej bramy i adresów serwerów DNS
+10. SSH(secure shell) - protokół którego używa się do emulacji terminala sieciowego. zapewnia szyfrowanie połączenia
